@@ -5,3 +5,9 @@ h1 {
 h2 {
   color: green;
 }
+.hallstatt {
+  background-image: url("../img/Hallstatt.jpg");
+  background-size: cover;
+  width: auto;
+  height: 600px;
+}
